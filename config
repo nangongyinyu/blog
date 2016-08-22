@@ -1,0 +1,17 @@
+#markdown: rdiscount
+permalink: /:title/
+url: http://qiaoketiqiu.com
+#highlighter: pygments
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 100
+paginate_path: "page:num"
+name: 翘课踢球
+description: 翘课踢球 | Keep walk, keep hungry.
+author: yubaobao
+email: nangongyinyu@163.com
+duoshuo: qiaoketiqiu
+weibo: 1873975073
+hub: nangongyinyu
+safe: false
+about: "从复制开始，至原创终止"
